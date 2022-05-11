@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d069767708ab74d8f65218ca72c7ff, type: 3}
+  m_Name: DefaultTileMap
+  m_EditorClassIdentifier: 
+  Tiles:
+  - {fileID: 1926038707571150, guid: 5fde49f0dd9876a40be55643b9a7df6a, type: 3}
+  - {fileID: 1926038707571150, guid: d691a7203a61ccb45af14ed3b4716dde, type: 3}
+  - {fileID: 1926038707571150, guid: 248b1e287f77221469a010ee8991e7e0, type: 3}
+  - {fileID: 1926038707571150, guid: f26f0e130a376734e83209e90580659e, type: 3}
+  - {fileID: 1926038707571150, guid: 77ee6005854ef5b4e9081df174759b70, type: 3}
+  - {fileID: 1926038707571150, guid: 4e176958fb0793c44a7ef631fe45a81a, type: 3}
+  - {fileID: 1926038707571150, guid: 02e00618c5cade342926da5f58640751, type: 3}
+  EntryTile: {fileID: 1134285720589810, guid: b8fbef241769ef54b9f4a6d489981a3e, type: 3}
+  CloseTile: {fileID: 1926038707571150, guid: aa82cbcf8f9bf2043a8b830d32ec13f7, type: 3}
